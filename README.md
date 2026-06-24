@@ -54,7 +54,7 @@
    <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="41" height="41"/>
-   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="41" height="41"/>
+   <img src="https://github.com/user-attachments/assets/327f67ce-8a6a-4cea-bde8-dac082f5de4e" width="41" height="41"/>
    <img src="https://github.com/user-attachments/assets/0a4614de-b7d2-4193-b1c3-cad51b8d8be5" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="41" height="41"/>
    <img src="https://github.com/user-attachments/assets/2323dc5f-986e-485c-a523-3aa84812722a" width="41" height="41"/>
