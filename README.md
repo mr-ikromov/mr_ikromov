@@ -57,5 +57,5 @@
    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="41" height="41"/>
-   <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" width="41" height="41"/>
+   <img src="https://github.com/user-attachments/assets/2323dc5f-986e-485c-a523-3aa84812722a" width="41" height="41"/>
 </p>
