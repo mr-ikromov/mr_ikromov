@@ -36,7 +36,7 @@
    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="41" height="41"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="41" height="41"/>
-   <img src="https://github.com/user-attachments/assets/612c665e-070d-46a3-be56-2c3b2d5775e3" alt="axum" width="41" height="41"/>
+   <img src="https://github.com/user-attachments/assets/8789fcff-cea0-43a4-84b9-c61cee13bc2a" alt="axum" width="41" height="41"/>
    <img src="https://github.com/user-attachments/assets/ea6e5cd6-b175-43b1-a5ec-656672bc083b" alt="touri" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/git-tower/git-tower-icon.svg" alt="tower" width="41" height="41"/>
    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu.com" width="41" height="41"/>
