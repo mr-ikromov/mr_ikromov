@@ -59,3 +59,4 @@
    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="41" height="41"/>
    <img src="https://github.com/user-attachments/assets/2323dc5f-986e-485c-a523-3aa84812722a" width="41" height="41"/>
 </p>
+<img src="https://github.com/user-attachments/assets/a2e003c6-1bf3-435f-88b4-d2bdb80e4c26" alt="image" style="width: 100%;">
